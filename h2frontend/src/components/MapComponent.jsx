@@ -613,12 +613,7 @@ const MapComponent = () => {
                   : "text-gray-700 hover:bg-gray-100"
               }`}
             >
-              <Moon className="h-4 w-4" />
-              <span>Dark</span>
-            </button>
-          </div>
-        </div>
-      </div>
+            
 
       {/* Current Location Button */}
       <div className="absolute bottom-32 right-6 z-[1000]">
